@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="Views/bootstrap.min.css">
 <script src="Components/jquery-3.2.1.min.js"></script>
-<script src="Components/payment.js"></script>
+<script src="Components/Doctor.js"></script>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 <!-- Bootstrap Date-Picker Plugin -->
