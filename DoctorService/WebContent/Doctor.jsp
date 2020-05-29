@@ -53,7 +53,7 @@ function pulsar(e,obj) {
 		<div class="col-6">
 			<h1><b>Dcotor Management</b></h1>
 			<br>
-			<form id="paymentForm" name="paymentForm" method="post" action="payment.jsp">
+			<form id="doctorForm" name="doctorForm" method="post" action="Doctor.jsp">
 
 				<b>Full Name:</b>
 				<input id="name" name="name" type="text" placeholder="Enter Full Name" class="form-control form-control-sm">
