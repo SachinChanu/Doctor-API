@@ -76,7 +76,7 @@ public class DoctorService extends HttpServlet {
 		response.getWriter().write(output);
 	}
 
-	// Convert request parameters to a Map IT17186216_COORAY B C R M
+	// Convert request parameters to a Map IT17125062_Chanuka M L S
 	private static Map getParasMap(HttpServletRequest request) {
 		Map<String, String> map = new HashMap<String, String>();
 
