@@ -1,4 +1,4 @@
-<!-- IT17186216_COORAY B C R M
+<!-- IT17125062_Chanuka M.L.S.
  -->
  <%@page import="com.Doctor"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
@@ -72,7 +72,7 @@ function pulsar(e,obj) {
 				<br>
 				
 				<input id="btnSave" name="btnSave" type="button" value="Save" class="btn btn-primary">
-				<a href="payment.jsp" class="btn1 btn danger" onclick="" type ="button" style="text-align: center">Clear</a>
+				<a href="Doctor.jsp" class="btn1 btn danger" onclick="" type ="button" style="text-align: center">Clear</a>
 				<input type="hidden" id="hidItemIDSave" name="hidItemIDSave" value="">
 			</form>
 			
